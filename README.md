@@ -1,4 +1,3 @@
-#
 TRAVEL GUIDE
 
 
@@ -13,5 +12,6 @@ Shows tourist places for any state
 Suggests local food based on region
 
 Suggests activities and a simple itinerary
+
 
 
